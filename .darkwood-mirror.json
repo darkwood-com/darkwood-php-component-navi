@@ -1,7 +1,7 @@
 {
   "canonical_repository": "darkwood-com/darkwood",
   "canonical_path": "library/darkwood-php/src/Darkwood/Component/Navi",
-  "canonical_revision": "73ebed721d36a428a22d1a611a3dc4ac1cd1902f",
+  "canonical_revision": "5abc8f2c7c3df7f51d47ce8ae401db71185abfac",
   "destination_repository": "darkwood-com/darkwood-php-component-navi",
   "destination_branch": "8.1"
 }
