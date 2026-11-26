@@ -3,4 +3,4 @@
 This repository is a read-only distribution mirror. Development, issues, and pull requests belong in the [canonical Darkwood monorepo](https://github.com/darkwood-com/darkwood/tree/main/library/darkwood-php/src/Darkwood/Component/Navi).
 
 Canonical source: `library/darkwood-php/src/Darkwood/Component/Navi`<br>
-Canonical revision: `0a34c4abb589eeb51a304f9ff5eb92889b25089f`
+Canonical revision: `068f6fd0d6360cbb8355633c8385a934267b2ac2`
